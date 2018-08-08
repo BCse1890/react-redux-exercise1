@@ -21,16 +21,3 @@ exports[`should render EditExpensePage 1`] = `
   </button>
 </div>
 `;
-
-exports[`should render editExpense 1`] = `
-<div>
-  <ExpenseForm
-    onSubmit={[Function]}
-  />
-  <button
-    onClick={[Function]}
-  >
-    Remove
-  </button>
-</div>
-`;
